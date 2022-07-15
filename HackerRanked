@@ -1,0 +1,3 @@
+from statistics import mode
+a=[1,2,2,3,3,3,3,4,5]
+print(mode(a))
